@@ -1,4 +1,4 @@
-namespace APBD_ćw2;
+namespace APBD_ćw2.Equipments;
 
 public class Camera(string name, int megaPixels, CameraType type) : Equipment(name)
 {

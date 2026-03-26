@@ -1,4 +1,4 @@
-namespace APBD_ćw2;
+namespace APBD_ćw2.Equipments;
 
 public class Monitor(string name, int size, string resolution) : Equipment(name)
 {
