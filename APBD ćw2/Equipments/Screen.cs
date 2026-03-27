@@ -1,6 +1,6 @@
 namespace APBD_ćw2.Equipments;
 
-public class Monitor(string name, int size, string resolution) : Equipment(name)
+public class Screen(string name, int size, string resolution) : Equipment(name)
 {
     public int Size { get; set; } = size; // in inches
     public string Resolution { get; set; } = resolution;
